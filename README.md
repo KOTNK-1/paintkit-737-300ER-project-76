@@ -10,6 +10,7 @@ My versione includes:
   *  DIFFRENT ALAIGMENT OF RIVETS (Also sepreted layer)
   *  RED LINEs AT LANDING GEAR DOORS
   *  WARNINGS (sepreted layer included on engines.psd and 76Nose.psd
+  *  IT REMOVE BLACK LINES WHEN ONE PART OF FUELSELAGE CONNECT TO ANOTHER
 
 !i included engine_NML becouse it makes ring of engine nice and shyn!
 -
