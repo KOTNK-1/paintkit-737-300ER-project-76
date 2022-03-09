@@ -12,6 +12,6 @@ My versione includes:
   *  WARNINGS (sepreted layer included on engines.psd and 76Nose.psd
 -
 That's how paint kit looks on airplane
-![alt text](https://imgur.com/a/nc7YC0Z.png)
+
 -
 If you find any misstakes/issues tag me in project76 discord server :)
