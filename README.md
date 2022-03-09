@@ -5,7 +5,7 @@ My version of default project76 paint kit (https://github.com/TheFirstAahz/767-3
 Join project76 Discord (https://discord.gg/ncVB3JcrBn)
 -
 
-My versione includes:
+My version includes:
   *  SPECIAL LAYER FOR DOORS, WINDOWS
   *  DIFFRENT ALAIGMENT OF RIVETS (Also sepreted layer)
   *  RED LINEs AT LANDING GEAR DOORS
