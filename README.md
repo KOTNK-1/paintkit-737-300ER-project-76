@@ -15,6 +15,7 @@ My version includes:
 -
 That's how paint kit looks on airplane
 ![picture](picture.png)
+![picture2](picture2.png)
 -
 
 Join project76 Discord (https://discord.gg/ncVB3JcrBn)
