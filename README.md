@@ -6,9 +6,12 @@ Join project76 Discord (https://discord.gg/ncVB3JcrBn)
 -
 
 My versione includes:
-  *  SPECIAL LAYER FOR DOORS
-  *  DIFFRENT ALAIGMENT OF LINES (Also sepreted layer)
-  *  RED LINE AT LANDING GEAR DOORS
+  *  SPECIAL LAYER FOR DOORS, WINDOWS
+  *  DIFFRENT ALAIGMENT OF RIVETS (Also sepreted layer)
+  *  RED LINEs AT LANDING GEAR DOORS
+  *  WARNINGS (sepreted layer included on engines.psd and 76Nose.psd
 -
-
-If you find any misstakes/issues contact me on discord KOTNK#0011
+That's how paint kit looks on airplane
+![alt text](https://imgur.com/a/nc7YC0Z.png)
+-
+If you find any misstakes/issues tag me in project76 discord server :)
