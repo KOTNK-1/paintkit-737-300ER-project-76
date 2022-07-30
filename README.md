@@ -10,7 +10,7 @@ My version includes:
   *  WARNINGS (separated layer included on engines.psd and 76Nose.psd)
   *  IT REMOVE BLACK LINES WHEN ONE PART OF FUELSELAGE CONNECT TO ANOTHER
 
-!i included engine_NML becouse it makes ring of engine nice and shyn!
+!i included engine_NML becouse it makes ring of engine nice and shiny!
 
 -
 That's how paint kit looks on airplane
